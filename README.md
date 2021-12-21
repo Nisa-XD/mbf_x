@@ -11,6 +11,8 @@ $pip2 install mechanize
 
 $pip2 install bs4
 
+$git clone https://github.com/Nisa-XD/mbf_x
+
 $cd mbf_x
 
 $python2 x.py
